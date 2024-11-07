@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<World>
+		<Width>15</Width>
+		<Height>15</Height>
+	</World>
+	<Hero>
+		<Name>Hero</Name>
+		<HitPoints>100</HitPoints>
+		<X>0</X>
+		<Y>0</Y>
+	</Hero>
+	<Enemy>
+		<Name>Enemy</Name>
+		<HitPoints>50</HitPoints>
+		<X>2</X>
+		<Y>2</Y>
+	</Enemy>
+</Configuration>
+
